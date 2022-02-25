@@ -5,3 +5,5 @@
 "Are you liking this class?" 
 
 "Say 'Yes' or 'No'!"
+
+"It's a really important content for Devs!"
